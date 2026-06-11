@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9cddef657aead8b47bf4592057a64088
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {fileID: 919132149155446097, guid: 5355e324ac4b9bf4db1590b7c5a3810c, type: 3}
+  - effectToSpawn: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
